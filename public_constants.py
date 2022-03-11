@@ -1,0 +1,10 @@
+YOUTUBE = 'youtube'
+VERSION = 'v3'
+FIRST_TAG = 'items'
+SECOND_TAG = 'snippet'
+THIRD_TAG_FIRSTPLACE_DICT = 'title'
+THIRDTAG_SECONDPLACE_DICT = 'publishedAt'
+FILENAME="demo.txt"
+TITLE="A new Youtube video was uploaded"
+APP_ICON="youtube_14198.ico"
+TIME=5

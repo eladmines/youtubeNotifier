@@ -1,0 +1,6 @@
+
+API_KEY = "AIzaSyAIxx-PMELVxzA6aEyntTCfhxK4x8B-_lE"
+
+channelID="UCYvPPIlUxtSETL0QAiw_vgg"
+
+PLAYLISTID="UUYvPPIlUxtSETL0QAiw_vgg"
